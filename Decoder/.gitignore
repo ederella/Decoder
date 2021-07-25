@@ -1,0 +1,10 @@
+/target/
+*.log
+target/
+.mvn/wrapper/*
+!**/src/main/**
+!**/src/test/**
+.classpath
+target/
+.project
+.settings
